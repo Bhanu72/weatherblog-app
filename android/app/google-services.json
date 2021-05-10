@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "694048679696",
+    "project_id": "weatherblog-55aa3",
+    "storage_bucket": "weatherblog-55aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694048679696:android:444ce5654964da8d4ba795",
+        "android_client_info": {
+          "package_name": "com.example.blog_app_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694048679696-5o0fhvsvgrr8u70fi35p1tm0b42bk881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYhf63Qf_vLYSqxWtJCus3nm2Zzukue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694048679696-5o0fhvsvgrr8u70fi35p1tm0b42bk881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694048679696:android:5d5980aa1faf20534ba795",
+        "android_client_info": {
+          "package_name": "com.example.newweatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694048679696-5o0fhvsvgrr8u70fi35p1tm0b42bk881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYhf63Qf_vLYSqxWtJCus3nm2Zzukue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694048679696-5o0fhvsvgrr8u70fi35p1tm0b42bk881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
